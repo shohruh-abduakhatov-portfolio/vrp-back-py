@@ -1,0 +1,11 @@
+{% extends 'admin/change_list.html' %}
+
+{% block object-tools %}
+<div>
+    {% csrf_token %}
+    <p class="deletelink-box">
+        <a href="reoptimize/" class="deletelink">Reoptimize</a></p>
+</div>
+<br/>
+{{ block.super }}
+{% endblock %}

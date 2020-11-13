@@ -1,0 +1,12 @@
+asgiref==3.2.3
+Django==2.2
+django-filter==2.2.0
+django-location-field==2.1.0
+django-map-widgets==0.2.2
+djangorestframework==3.11.0
+Markdown==3.1.1
+psycopg2==2.8.4
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
+firebase-admin
