@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "schetchik-camera",
-  "private_key_id": "442d4449f766b81ac9ad03c59914c99234e638b1",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaNDl0ojykIfcS\n1nz7IZ4UX9Xw/aeU6gJPgRzyBrQPFEO2LcqS2eOVHwQUAq3nJnQ7t5eeBEM/4uzT\nplegvmBQZoXNkNT+VhsvnVOix3qRLTQoVdfw1uTcuNEyxKW0vq4JTDkdp0Vh6t2j\nDqLwy10eCuqX9gzTHkzNQyLHPYoaVT0VPl6x3isWTaDCxXnMIhHMfpclms4WjI2t\nekKcFX3MbwUq3Qdeak+n1v0E3E58AO3ksD5LTcKQP9V7eBigoK68OQevW1lYDmQ+\nhFL5jIr7EsS0M/2yYPCjn/X+OGczuJ/Wq0VwwCHVnRu8he4qoNCZgC519HuYn2BO\nQnpZfCNhAgMBAAECggEANQ4X4Jm7PIuVGy2h9bO01HS+wro7MOCsp9cX8uu8gt2p\niGJL6ue9xj5UJGBhngCciDlcGJmF29LDQfTe/GbT84W6rqYQqmtM0j6SmpSAhrej\nVOdoMyx0tL5/97QyATSD454OnrXBCPYKiMIN7MRDhwUhfuRAuFiZ+xuIuT1iqTk2\naspxb+bAt+0q5p8uviJFwQaPT7YysxDgIwKEi2NsmTzCyImQX5IwJEFlfSoj99a6\ne1hLCeYPfJeaLtkTXvrzwTYDadYyuVyi5jbXyu9Y7VkmcL3XyOcApozxhGUEo5pl\nNmkrsYhDa3REQO9HQKfpPlBbZZjM8eUuzeSlNXecWwKBgQDXsQrwYz2Mg3RnVpsa\nu5BE5sbkNHtKQJZxbemVNKj74HSXhaRvNppB/1GfiMj3vuJ7b4RstQuo02Fb5GA6\nuRFJUOrWI4So6r4UcsdD/FR1LH7H1duzY0kFQFNZ8YoxcR5D/gxKqM2XV9jlrKZ7\n74nO7W7HKexRwFpFa8pceaZswwKBgQC3BYnjr19ZERCEUSY9gxn8C1JjvmtMnyWS\nDqLmF5UEKM4fLee+KL+oIcp1Z8ews9urQ1xwx+NXayWeCO4M071BUz0zsCO58L28\n0VJTeBgk6/FJNCZi8tJlnH2O/rz92uj1tVeJqm9cGWU7lUYYUa5bzDyG0ena9yqg\nePJMwDk9CwKBgQDUAxdwkOv4CWLLDOsrDMDTqVBJEnk51GDMoDBg1EFiTA/uvJOU\nKcTZKIFv4kFAnKX8lPJC9HbAfP6PF92q+yzNtzcORB1q+ErcyLGr1wShpJn+De2F\n2Ar3mXIU0AJ5dOo+BSLJ5EEqCVSO9fUzj5ITD3m7VS8QcJWK9VgVLBJ1hwKBgEMX\n47G1A5YqHEz1VrhsDCWKnPx1vO4M1YASn4MMGBO7RbzGXlMmqwPex1J85gaQGLJS\n8lth26SbYeHqUiIfqRx+gEwngSFT8Kp8bdqthuRaHk0AsiXJ8HlRgfHezrec/ZO9\nk8ai1UoFAUhzc4vMvcdnOrUN1NXxkA3d6K1cNl97AoGBAMHF8/zqh2eOCqzjRHiW\nMbCZ9RHP65RgptNJIQgvJR0Ppdwi6E8W7dShiRjpWLZIfUEJrF++QApSR+7xp8WS\nbl8FYWij9d2O1YztH5LgUoztupkQwj5vyoqFPl0fiOozyXZ1KxH/1gpdxYDEZQmB\nPpe5iUMLdlkl5RwUWqUggMx7\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "",
   "client_email": "mgovaward-service@schetchik-camera.iam.gserviceaccount.com",
-  "client_id": "100718934655263321189",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mgovaward-service%40schetchik-camera.iam.gserviceaccount.com"
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
