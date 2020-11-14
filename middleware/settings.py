@@ -131,7 +131,7 @@ STATICFILE_DIRS = (os.path.join('static'),)
 SPATIALITE_LIBRARY_PATH = 'mod_spatialite'
 AUTH_USER_MODEL = "api.User"
 
-GOOGLE_MAP_API_KEY = 'AIzaSyBR6zEBVnheEgNuvgKpuEa8vsenXdgXsgI'
+GOOGLE_MAP_API_KEY = ''
 MAP_WIDGETS = {
     "GooglePointFieldWidget": (
         ("zoom", 15),
@@ -148,18 +148,7 @@ fb = {
     "config": {
 
     },
-    "database_url_dev": "https://api-6147654869283560550-270339-15a76.firebaseio.com/",
-    "key_url_dev": "",
-    "database_url": "https://api-6147654869283560550-270339-15a76.firebaseio.com/",
-    "key_url": "",
-
-    "apiKey": "AIzaSyCjnlhU8S4t2x52_sMhwOHcMNiEdEgzZH0",
-    "authDomain": "schetchik-camera.firebaseapp.com",
-    "databaseURL": "https://schetchik-camera.firebaseio.com",
-    "projectId": "schetchik-camera",
-    "storageBucket": "schetchik-camera.appspot.com",
-    "messagingSenderId": "242962893160",
-    "appId": "1:242962893160:web:e512560a16494a2f81aedd"
+    
 
 }
 
